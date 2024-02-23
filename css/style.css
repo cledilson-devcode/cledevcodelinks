@@ -24,7 +24,7 @@ body{
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
-    /* height: 100vh; */
+    height: 100vh;
     background: var(--bg-gradient);
     background-size: 400% 400%;
     animation: gradientAnimation 10s ease infinite;
@@ -49,7 +49,7 @@ body *{
 
 main#container {
     width: 36rem;
-    margin: 5.6rem auto 0rem;
+    margin: 0 auto 0rem;
     padding: 0 2.4rem;
 }
 
