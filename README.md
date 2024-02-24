@@ -1,7 +1,7 @@
 <h1 align="center"> Links - Portfólio </h1>
 
 <p align="center">
-Projeto desenvolvido para demonstrar o acesso as informações para portfólio e opções de contato.
+Projeto desenvolvido para demonstrar o acesso as informações como cartão de visitas online.
 </p>
 
 <p align="center">
