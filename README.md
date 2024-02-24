@@ -1,13 +1,12 @@
 <h1 align="center"> Links - Portfólio </h1>
 
 <p align="center">
-
 Projeto desenvolvido para demonstrar o acesso as informações para portfólio e opções de contato.
 </p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://cledilson-devcode.github.io/portfolio/">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://cledilson-devcode.github.io/portfolio/">Projeto</a>
 </p>
 
 <p align="center">
